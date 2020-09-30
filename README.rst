@@ -11,8 +11,8 @@ Overview
 
 A Python library for automating interaction with websites.
 MechanicalSoup automatically stores and sends cookies, follows
-redirects, and can follow links and submit forms. It doesn't do
-JavaScript.
+redirects, and can follow links and submit forms. One stop Library for a very interactive and and interesting website. 
+NOTE: It doesn't do JavaScript.
 
 MechanicalSoup was created by `M Hickford
 <https://github.com/hickford/>`__, who was a fond user of the
