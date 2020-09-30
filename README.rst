@@ -55,10 +55,10 @@ install in the current user's home directory.)
 Documentation
 -------------
 
-The full documentation is available on
-https://mechanicalsoup.readthedocs.io/. You may want to jump directly to
-the `automatically generated API
-documentation <https://mechanicalsoup.readthedocs.io/en/latest/mechanicalsoup.html>`__.
+The full documentation is available on:
+https://mechanicalsoup.readthedocs.io/. 
+You may want to jump directly to
+the `automatically generated API documentation <https://mechanicalsoup.readthedocs.io/en/latest/mechanicalsoup.html>`__.
 
 Example
 -------
